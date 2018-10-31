@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.header {
+  color: #282c34;
+  background-color: #a73436;
+}
+
+a {
+  text-decoration: none;
+  color: #282c34;
+}
+
+body {
+  background-color: #282c34;
+  max-height: 100%;
+}
